@@ -182,32 +182,21 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Compilers
 
-#### Commercial / Closed source
+#### Commercial
 
-- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, Ada 95, Ada 2005 and Ada 2012 versions of the language.
-- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.
-- [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications.
-- [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
-- [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
-
-#### Commercial / Open source
-
-- [GNAT Pro](https://www.adacore.com/)
+- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, Ada 95, Ada 2005 and Ada 2012 versions of the language. (**Closed source**)
+- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments. (**Closed source**)
+- [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications. (**Closed source**)
+- [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets. (**Closed source**)
+- [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain. (**Unknown if source can be requested under GPL**)
+- [GNAT Pro](https://www.adacore.com/) (**Closed source**)
+- [GNAT-CE](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. (**Open source** - **without** linking exception)
 
 #### Open source
 
-##### GPL (no linking exception)
-
-- [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
-
-##### GPL (with linking exception)
-
-- [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
-
-##### Other / unknown licence 
-
-- [hac](https://github.com/zertovitch/hac) - Experimental Ada compiler fully in Ada.
-- [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system.
+- [FSF-GNAT](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83. (**GPL - with linking exception**)
+- [hac](https://github.com/zertovitch/hac) - Experimental Ada compiler fully in Ada. (**Other / unknown licence **)
+- [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system. (**Other / unknown licence **)
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
